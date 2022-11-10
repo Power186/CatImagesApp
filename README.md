@@ -5,3 +5,7 @@ Displays a list of cat images
 - Click Code -> Click Download zip folder
 - Make sure you have latest Xcode version, 14.1
 - Open folder with Xcode
+
+## BUILD
+- In Xcode, select Simulator type (recommended iPhone 14)
+- In Xcode, click the play button to launch the application in the simulator.
